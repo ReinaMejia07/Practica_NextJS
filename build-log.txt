@@ -1,0 +1,35 @@
+
+> @ build C:\Users\DELL\OneDrive\Documentos\ESPECIALIZACION\nextjs-dashboard
+> next build
+
+   ▲ Next.js 15.1.6
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/9) ...
+   Generating static pages (2/9) 
+   Generating static pages (4/9) 
+   Generating static pages (6/9) 
+ ✓ Generating static pages (9/9)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    5.49 kB         115 kB
+├ ○ /_not-found                          977 B           106 kB
+├ ○ /dashboard                           146 B           106 kB
+├ ○ /dashboard/customers                 146 B           106 kB
+├ ○ /dashboard/invoices                  146 B           106 kB
+├ ƒ /query                               146 B           106 kB
+└ ƒ /seed                                146 B           106 kB
++ First Load JS shared by all            105 kB
+  ├ chunks/59-28f7826bb891b4e3.js        50.5 kB
+  ├ chunks/aec749e8-ff8989dc528ab614.js  52.9 kB
+  └ other shared chunks (total)          1.99 kB
+
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+
