@@ -1,0 +1,10 @@
+
+> @ build C:\Users\DELL\OneDrive\Documentos\ESPECIALIZACION\nextjs-dashboard
+> next build
+
+   ▲ Next.js 15.4.0-canary.18
+   - Environments: .env
+   - Experiments (use with caution):
+     · ppr
+
+   Creating an optimized production build ...
